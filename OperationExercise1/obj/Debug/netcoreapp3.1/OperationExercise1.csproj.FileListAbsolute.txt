@@ -1,0 +1,14 @@
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\bin\Debug\netcoreapp3.1\OperationExercise1.exe
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\bin\Debug\netcoreapp3.1\OperationExercise1.deps.json
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\bin\Debug\netcoreapp3.1\OperationExercise1.runtimeconfig.json
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\bin\Debug\netcoreapp3.1\OperationExercise1.runtimeconfig.dev.json
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\bin\Debug\netcoreapp3.1\OperationExercise1.dll
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\bin\Debug\netcoreapp3.1\OperationExercise1.pdb
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\obj\Debug\netcoreapp3.1\OperationExercise1.csproj.AssemblyReference.cache
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\obj\Debug\netcoreapp3.1\OperationExercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\obj\Debug\netcoreapp3.1\OperationExercise1.AssemblyInfoInputs.cache
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\obj\Debug\netcoreapp3.1\OperationExercise1.AssemblyInfo.cs
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\obj\Debug\netcoreapp3.1\OperationExercise1.csproj.CoreCompileInputs.cache
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\obj\Debug\netcoreapp3.1\OperationExercise1.dll
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\obj\Debug\netcoreapp3.1\OperationExercise1.pdb
+D:\C Sharp 31\repos\OperationExercise1\OperationExercise1\obj\Debug\netcoreapp3.1\OperationExercise1.genruntimeconfig.cache
